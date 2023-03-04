@@ -15,12 +15,12 @@
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/ForceSub_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sergejoz/ForceSub_Bot)
 
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/Jigarvarma2005/ForceSub_Bot
+git clone https://github.com/sergejoz/ForceSub_Bot
 ```
 - Change directory
 ```
@@ -40,6 +40,10 @@ python3 bot.py
 ```
 ## Configs:
 - Read `Config.py` to know all configs
+
+## Check
+Just Add Heroku Postgres And No Need To Add Databse Url
+Note: Other Entry Like App Id , Api Hash and bot token are still important 😁
 
 ## Thanks to
 - [Jigar Varma](https://github.com/Jigarvarma2005)
